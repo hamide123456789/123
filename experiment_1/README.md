@@ -103,7 +103,7 @@ void loop() {
 <br>
 
 <div align="center">
-<img src="/media/microprocessor_12.gif">
+<img src="/pic/microprocessor1.jpg">
 </div>
 
 ---
